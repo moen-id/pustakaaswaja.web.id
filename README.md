@@ -1,4 +1,4 @@
-# Doks website
+# From Doks website
 
 [![CodeQL](https://github.com/h-enk/getdoks.org/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/h-enk/getdoks.org/actions/workflows/codeql-analysis.yml)
 [![Hyas CI](https://github.com/h-enk/getdoks.org/actions/workflows/node.js-ci.yml/badge.svg)](https://github.com/h-enk/getdoks.org/actions/workflows/node.js-ci.yml)
