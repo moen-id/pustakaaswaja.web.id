@@ -66,20 +66,16 @@
   weight = 10
 
 [[main]]
-  name = "Buku"
-  url = "/404.html"
-  weight = 10
+  name = "Lainnya"
+  url = "#"
+  weight = 40
+  identifier = "lainnya"
 
 [[main]]
-  name = "Q & A"
-  url = "/404.html"
-  weight = 30
-
-#[[main]]
-#  name = "Community"
-#  url = "#"
-#  weight = 40
-#  identifier = "community"
+   name = "Artikel"
+   weight = 15
+   url = "/404.html"
+   parent = "lainnya"
 
 #[[main]]
 #  name = "GitHub repository"
@@ -90,11 +86,23 @@
 #  [main.params]
 #   target = "_blank"
 
-# [[main]]
-#   name = "Contribute"
-#   weight = 15
-#   url = "/docs/contributing/how-to-contribute/"
-#   parent = "community"
+[[main]]
+   name = "Buku"
+   weight = 15
+   url = "/404.html"
+   parent = "lainnya"
+
+[[main]]
+   name = "QnA"
+   weight = 15
+   url = "/404.html"
+   parent = "lainnya"
+
+[[main]]
+   name = "About"
+   weight = 15
+   url = "/404.html"
+   parent = "lainnya"
 
 #[[main]]
 #  name = "Discussions"
