@@ -58,16 +58,16 @@ imageImageSizes = ["480","720","1080","1280","1600","2048"]
 singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 # Footer
-footer = "© 2023 The Pustaka Aswaja  <a class=\"text-muted\" href=\"https://moen.eu.org/\">Authors</a> | Documentation Digitized under CC BY 4.0. Copyright © 2023 The Pustaka Aswaja Digital. All rights reserved."
+footer = "© 2023 The Pustaka Aswaja | Documentation Digitized under CC BY 4.0. Copyright © 2023 The Pustaka Aswaja Digital. All rights reserved."
 
 
 # Feed
 copyRight = "Copyright © 2023 The Pustaka Aswaja Digital"
 
 # Alert
-alert = true
+alert = false
 #alertDismissable = true
-alertText = "Nimati Layanan tanpa iklan. Donasi untuk terus berkembang melalui SociaBuzz <a class=\"alert-link stretch-link\" href=\"https://sociabuzz.com/pustakaaswaja\" target=\"_blank\" rel=\"noopener\">Jadilah Kontributor!</ a>"
+#alertText = "Nimati Layanan tanpa iklan. Donasi untuk terus berkembang melalui SociaBuzz <a class=\"alert-link stretch-link\" href=\"https://sociabuzz.com/pustakaaswaja\" target=\"_blank\" rel=\"noopener\">Jadilah Kontributor!</ a>"
 # alertText = "Better UX navigation, multilingual and i18n support, and more. <a class=\"alert-link stretched-link\" href=\"/blog/doks-v0.3/\">Check out what's new!</a>"
 #alertText = "The Jamstack at Scale: Building Sites for Audiences of Millions. <a class=\"alert-link stretched-link\" href=\"https://www.netlify.com/resources/ebooks/jamstack-at-scale?utm_campaign=Website%20-%20Whitepaper%20-%20Jamstack%20at%20Scale&utm_source=Homepage%20Announcement%20Bar\">Get the eBook!</a>"
 # alertText = "Multi level section menu — <strong>automatically</strong> generated, and more. <a class=\"alert-link stretched-link\" href=\"/blog/doks-v0.4/\">Check out what's new!</a>"
